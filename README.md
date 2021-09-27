@@ -21,7 +21,7 @@ Once we have our development environment ready, we will clone the repositories i
 ```bash
 git clone https://github.com/zJairO/Pizza-Backend
 ```
-
+&
 ```bash
 git clone https://github.com/zJairO/Pizza-App
 ```
